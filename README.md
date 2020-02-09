@@ -2,6 +2,8 @@
 
 Tdo is a basic CLI tool for keeping notes and todo items. Files are automatically created in a ./notes directory with a date stamp--separating notes by day.
 
+[![demo.gif](https://i.postimg.cc/mZ0B7Cdk/demo.gif)](https://postimg.cc/pyYwHhMM)
+
 ### Installation
 
 Clone this repo, allow the shell script to be executable, and set an alias to the script.
