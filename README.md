@@ -17,7 +17,11 @@ alias tdo="$PWD/tdo.sh"
 ### Usage
 
 `tdo` shows the entries for the current day's notes
+
 `tdo add "notes here"` to add an entry to the current notes file
+
 `tdo check 2` to add a 'check mark' for the entry at line 2
+
 `tdo uncheck 2` to remove the 'check mark' from the entry at line 2
+
 `tdo help` to show information on how to use tdo.
